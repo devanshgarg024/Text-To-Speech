@@ -1,0 +1,21 @@
+textarea{
+    resize: none;
+    width: 600px;
+    height: 300px;
+}
+h1{
+font-size: 300%;
+}
+body{
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 25px;
+} 
+
+select{
+    width: 500px;
+    height: 25px;
+
+}
